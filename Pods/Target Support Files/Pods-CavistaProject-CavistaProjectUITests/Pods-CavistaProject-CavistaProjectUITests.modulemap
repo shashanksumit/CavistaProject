@@ -1,0 +1,6 @@
+framework module Pods_CavistaProject_CavistaProjectUITests {
+  umbrella header "Pods-CavistaProject-CavistaProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

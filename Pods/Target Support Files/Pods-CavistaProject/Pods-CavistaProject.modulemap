@@ -1,0 +1,6 @@
+framework module Pods_CavistaProject {
+  umbrella header "Pods-CavistaProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

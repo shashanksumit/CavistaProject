@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (4.9.1)
+  - CRuntime (2.1.2)
+  - Kingfisher (5.14.1):
+    - Kingfisher/Core (= 5.14.1)
+  - Kingfisher/Core (5.14.1)
+  - Realm (3.18.0):
+    - Realm/Headers (= 3.18.0)
+  - Realm/Headers (3.18.0)
+  - RealmSwift (3.18.0):
+    - Realm (= 3.18.0)
+  - Runtime (2.1.0):
+    - CRuntime
+  - SnapKit (5.0.1)
+  - Unrealm (0.2.5):
+    - RealmSwift (= 3.18.0)
+    - Runtime (= 2.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - Kingfisher (~> 5.0)
+  - RealmSwift
+  - SnapKit (~> 5.0.0)
+  - Unrealm
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CRuntime
+    - Kingfisher
+    - Realm
+    - RealmSwift
+    - Runtime
+    - SnapKit
+    - Unrealm
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  CRuntime: d7ae373e07ab36e92ad273259557e3817e0c214b
+  Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
+  Realm: 7b3d04740facf45e958a514b466a32b04f1113d6
+  RealmSwift: c817b5f374668cf08f649afb05f55d92a787649c
+  Runtime: 3e42815d18fa3075631768e79f02be2ad7e2b18f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Unrealm: 6003d5bcd985a0f365ddf4ecea37be4c395626de
+
+PODFILE CHECKSUM: bf8c68e4a37b060720f0f00982ef5a87d47f2c2f
+
+COCOAPODS: 1.8.3
